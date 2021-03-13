@@ -2,6 +2,18 @@
 
 <?php require_once("navBar.php");?>
 
+<style>
+.card{
+  margin: 5% 0%;
+}
+
+.card-body{
+  margin: 0% 0% 0% 3%;
+  padding: 6% 0%;
+}
+
+</style>
+
 <div class="container">
 
 <!-- Card deck -->
