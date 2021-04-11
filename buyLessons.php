@@ -19,13 +19,13 @@
 <!-- Card deck -->
 <div class="card-deck row">
 
-  <div class="col-xs-12 col-sm-6 col-md-4">
+  <div class="col-xs-12 col-sm-6">
   <!-- Card -->
   <div class="card">
 
     <!--Card image-->
     <div class="view overlay">
-      <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/images/16.jpg" alt="Card image cap">
+      <img class="card-img-top" src="img/buyLessons/html5.png" alt="Card image cap">
       <a href="#!">
         <div class="mask rgba-white-slight"></div>
       </a>
@@ -35,11 +35,11 @@
     <div class="card-body">
 
       <!--Title-->
-      <h4 class="card-title">HTML Basic</h4>
+      <h4 class="card-title">HTML Basic <b>99$</b></h4>
       <!--Text-->
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      <p class="card-text ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam minima est molestias facere dolore in tenetur magni, neque impedit cumque, inventore a earum nulla culpa explicabo nam similique quia voluptatum!</p>
       <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-      <button type="button" class="btn btn-light-blue btn-md">Read more</button>
+      <a href="buyHtml.php"><button type="button" class="btn btn btn-success btn-md">Buy now</button></a>
 
     </div>
 
@@ -47,13 +47,13 @@
   <!-- Card -->
   </div>
 
-  <div class="col-xs-12 col-sm-6 col-md-4">
+  <div class="col-xs-12 col-sm-6">
   <!-- Card -->
   <div class="card mb-4">
 
     <!--Card image-->
     <div class="view overlay">
-      <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/images/14.jpg" alt="Card image cap">
+      <img class="card-img-top" src="img/buyLessons/css3.png" alt="Card image cap">
       <a href="#!">
         <div class="mask rgba-white-slight"></div>
       </a>
@@ -63,11 +63,11 @@
     <div class="card-body">
 
       <!--Title-->
-      <h4 class="card-title">CSS Basic</h4>
+      <h4 class="card-title">CSS Basic <b>99$</b></h4>
       <!--Text-->
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      <p class="card-text ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eveniet ex nisi fuga? Soluta culpa magni officia eaque inventore. Pariatur possimus eligendi exercitationem voluptatum ut in aspernatur expedita temporibus quidem!</p>
       <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-      <button type="button" class="btn btn-light-blue btn-md">Read more</button>
+      <a href="buyCss.php"><button type="button" class="btn btn btn-success btn-md">Buy now</button></a>
 
     </div>
 
@@ -75,13 +75,13 @@
   <!-- Card -->
 </div>
 
-<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="col-xs-12 col-sm-6">
   <!-- Card -->
   <div class="card mb-4">
 
     <!--Card image-->
     <div class="view overlay">
-      <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/images/15.jpg" alt="Card image cap">
+      <img class="card-img-top" src="img/buyLessons/js.png" alt="Card image cap">
       <a href="#!">
         <div class="mask rgba-white-slight"></div>
       </a>
@@ -91,11 +91,11 @@
     <div class="card-body">
 
       <!--Title-->
-      <h4 class="card-title">JS Basic</h4>
+      <h4 class="card-title">JS Basic <b>99$</b></h4>
       <!--Text-->
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      <p class="card-text ">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis fugit, impedit maxime alias ex tempora praesentium aliquam exercitationem laborum fuga illum sunt cum rerum et? Inventore sunt impedit cum harum.</p>
       <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-      <button type="button" class="btn btn-light-blue btn-md">Read more</button>
+      <a href="buyJs.php"><button type="button" class="btn btn btn-success btn-md">Buy now</button></a>
 
     </div>
 
@@ -103,13 +103,13 @@
   <!-- Card -->
 </div>
 
-<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="col-xs-12 col-sm-6 ">
   <!-- Card -->
   <div class="card">
 
     <!--Card image-->
     <div class="view overlay">
-      <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/images/16.jpg" alt="Card image cap">
+      <img class="card-img-top" src="img/buyLessons/php.png" alt="Card image cap">
       <a href="#!">
         <div class="mask rgba-white-slight"></div>
       </a>
@@ -119,11 +119,12 @@
     <div class="card-body">
 
       <!--Title-->
-      <h4 class="card-title">PHP basic</h4>
+      <h4 class="card-title">PHP basic <b>99$</b></h4>
       <!--Text-->
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore velit beatae, corporis rem cum nam laboriosam excepturi necessitatibus magni consequuntur quae ut ullam recusandae minus deserunt odio numquam est ratione.</p>
       <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-      <button type="button" class="btn btn-light-blue btn-md">Read more</button>
+      <a href="buyPhp.php"><button type="button" class="btn btn btn-success btn-md">Buy now</button></a>
+
 
     </div>
 

@@ -12,9 +12,10 @@
       <li class="nav-item active">
         <a class="nav-link" href="/">InLearn <span class="sr-only">(current)</span></a>
       </li>
-      <!-- <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
+      <li class="nav-item">
+        <a class="nav-link" href="buyLessons.php">Buy Lessons</a>
       </li>
+      <!--
       <li class="nav-item">
         <a class="nav-link disabled" href="#">Disabled</a>
       </li> -->

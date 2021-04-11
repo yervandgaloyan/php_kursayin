@@ -201,7 +201,7 @@
     </div>
     <div class="row justify-content-end">
       <div class="col-lg-2 col-md-4 col-sm-6 col-6">
-        <button type="button" class="btn btn-success" onclick="window.location.replace('questions/introduction.php');">Unlock Next Stage</button>
+        <button type="button" class="btn btn-success" onclick="//window.location.replace('questions/introduction.php');">Unlock Next Stage</button>
       </div>
     </div>
     <br/>
